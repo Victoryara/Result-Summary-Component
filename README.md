@@ -30,8 +30,8 @@ Take a look at the sceenshot of my work here
 
 ### Links
 
-- Solution URL: [If you want to see my solution, click on this link >>>](https://github.com/Victoryara/Result-Summary-Component)
-- Live Site URL: [If you want to see the result on the browser](https://victoryara.github.io/Result-Summary-Component/)
+- Solution URL: [https://github.com/Victoryara/Result-Summary-Component]
+- Live Site URL: [https://victoryara.github.io/Result-Summary-Component/]
 
 ## My process
 
